@@ -1,0 +1,2 @@
+# index-faq
+faq page
